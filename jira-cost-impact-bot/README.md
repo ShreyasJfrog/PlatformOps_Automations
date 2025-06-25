@@ -1,8 +1,7 @@
----
 
 ## 📄 `jira-cost-impact-bot/README.md`
 
-````markdown
+
 # JiraDocBot – Automated Cost Impact Report from Slack + JIRA
 
 `JiraDocBot` is a Slack bot designed to automate the extraction of JIRA ticket data mentioned in a Slack channel and generate a Word document report estimating cost impact, cloud regions, and timelines — especially useful during migrations and deployments.
