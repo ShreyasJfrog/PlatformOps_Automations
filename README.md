@@ -7,7 +7,7 @@ A centralized repository of automation tools and scripts designed to streamline 
 
 ### 📦 Included Automations
 
-#### `jira-cost-impact-bot`
+#### [`jira-cost-impact-bot`](https://github.com/ShreyasJfrog/PlatformOps_Automations/tree/main/jira-cost-impact-bot)
 
 > A Slack-integrated bot (`JiraDocBot`) that scans messages in a configured Slack channel, extracts JIRA ticket references, queries JIRA for deployment-related metadata, and generates a `.docx` report summarizing cost impacts, regions, and change windows.
 
