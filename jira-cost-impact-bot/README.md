@@ -1,6 +1,4 @@
 
-## 📄 `jira-cost-impact-bot/README.md`
-
 
 # JiraDocBot – Automated Cost Impact Report from Slack + JIRA
 
